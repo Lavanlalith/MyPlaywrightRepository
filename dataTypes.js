@@ -25,14 +25,7 @@ let transactionID = 860790707552353253253252n
 console.log(transactionID);
 console.log(typeof transactionID);
 
-let name = 'Lavanya'
-//let name = 'Lalith'
-name = 'Lavan'  
-console.log(name);
 
-let lastName = 'Lalith'
-console.log(firstName);
-console.log(typeof firstName);
 
 
 
